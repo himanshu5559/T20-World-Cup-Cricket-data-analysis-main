@@ -52,8 +52,7 @@ The dashboard provides:
 - Deploy Power BI dashboard online for wider access  
 
 ## 📧 Contact  
-**Author:** Anand Kumar  
-**Email:** anandkumarchatra969@gmail.com  
+**Author:** Himanshu Saini 
+**Email:** himanshu.engg26@gmail.com
  
-
 
